@@ -20,6 +20,4 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/uRTvS5eRE0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <img src='https://recordit.co/I7K3IjE39n.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
